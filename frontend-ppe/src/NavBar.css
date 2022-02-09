@@ -1,0 +1,10 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.nav button {
+    background-color: rgba(52, 52, 52, 0);
+    border-color: rgba(52, 52, 52, 0);
+}
