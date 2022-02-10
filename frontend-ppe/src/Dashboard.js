@@ -1,5 +1,4 @@
 import React from 'react';
-//import GrapheCapteur from './grapheCapteur/grapheCapteur';
 import Home from './grapheCapteur/grapheCapteur';
 import Home2 from './grapheCapteur2/grapheCapteur2';
 import Home3 from './grapheCapteur3/grapheCapteur3';
