@@ -1,6 +1,7 @@
 import React from 'react';
+import Forum from './forum/forum';
 
-function Forum() {
+function ForumPage() {
     return (
         <div>
             <div className="forum">
@@ -10,4 +11,4 @@ function Forum() {
     )
 }
 
-export default Forum;
+export default ForumPage;
